@@ -1,4 +1,4 @@
-/** First Wollok example */
+
 object loboFeroz {
 	var peso = 10
 	method estaSaludable() {
